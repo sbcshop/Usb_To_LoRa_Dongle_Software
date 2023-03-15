@@ -5,8 +5,11 @@ USB to LoRa is a robust and versatile USB to LoRa that allows you to connect wit
 <img src = "https://github.com/sbcshop/Usb_To_LoRa_Dongle_Software/blob/main/Images/lora_usb.png"/>
 
 ## How To use
+Before this you need to setup the LoRa in  transceiver mode, for this you need to do jumper selection as shown in below image :- 
 
-For windows you can use XCTU or Tera Term for Transmit and send data and other related software. Among all,XCTU is good and easy to use. follow the below steps 
+<img src = "https://github.com/sbcshop/Usb_To_LoRa_Dongle_Software/blob/main/Images/img.png"/>
+
+For windows you can use XCTU or Tera Term for Transmit and send data and other related software. Among all,XCTU is good and easy to use. follow the below steps
 
 
 <img src = "https://github.com/sbcshop/Usb_To_LoRa_Dongle_Software/blob/main/Images/img4.png"/>
