@@ -38,7 +38,7 @@ There are four operating modes, which are set by M1 and M0, the details are as f
    <img src = "https://github.com/sbcshop/Usb_To_LoRa_Dongle_Software/blob/main/Images/img3.jpg"/>
    
 ### Use LoRa USB As Breakout
-<img src = "https://github.com/sbcshop/Usb_To_LoRa_Dongle_Software/blob/main/Images/img13.jpg"/>
+<img src = "https://github.com/sbcshop/Usb_To_LoRa_Dongle_Software/blob/main/Images/img14.jpg"/>
 
 ### Lora GUI For Configuration (run with the help of GUI)
 
