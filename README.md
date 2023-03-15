@@ -29,9 +29,13 @@ It receive data from other LoRa Dongle, as you see in below image
 ### Operating Mode
 There are four operating modes, which are set by M1 and M0, the details are as follows:
  * Normal Mode(M1=0,M0=0) 
+   <img src = "https://github.com/sbcshop/Usb_To_LoRa_Dongle_Software/blob/main/Images/img.jpg"/>
  * WOR Mode(M1=0,M0=1)
+   <img src = "https://github.com/sbcshop/Usb_To_LoRa_Dongle_Software/blob/main/Images/img.jpg"/>
  * Configuration Mode(M1=1,M0=0)
+   <img src = "https://github.com/sbcshop/Usb_To_LoRa_Dongle_Software/blob/main/Images/img.jpg"/>
  * Deep sleep Mode(M1=1,M0=1)
+   <img src = "https://github.com/sbcshop/Usb_To_LoRa_Dongle_Software/blob/main/Images/img.jpg"/>
 
 ### Lora GUI For Configuration (run with the help of GUI)
 
