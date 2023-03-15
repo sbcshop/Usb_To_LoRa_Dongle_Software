@@ -51,4 +51,7 @@ It receive data from other LoRa Dongle, as you see in below image
 #### Step 8: Restart the GUI, set baudrate and port, then connect and press read button 
   <img src= "https://github.com/sbcshop/Lora-HAT-for-Raspberry-Pi/blob/main/images/img_14.png" />
   <img src= "https://github.com/sbcshop/Lora-HAT-for-Raspberry-Pi/blob/main/images/img_15.png" />
+  
+  
+  https://github.com/sbcshop/Usb_To_LoRa_Dongle_Hardware
  
