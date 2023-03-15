@@ -38,6 +38,8 @@ There are four operating modes, which are set by M1 and M0, the details are as f
    <img src = "https://github.com/sbcshop/Usb_To_LoRa_Dongle_Software/blob/main/Images/img3.jpg"/>
    
 ### Use LoRa USB As Breakout
+You may use this device as a breakout, which means you can link it to any microcontroller or CPU by configuring the UART jumper wires as shown in the image below.
+
 <img src = "https://github.com/sbcshop/Usb_To_LoRa_Dongle_Software/blob/main/Images/img14.jpg"/>
 
 ### Lora GUI For Configuration (run with the help of GUI)
