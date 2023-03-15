@@ -73,4 +73,22 @@ There are four operating modes, which are set by M1 and M0, the details are as f
 * [USB LoRa Dongle Schematic](https://github.com/sbcshop/Usb_To_LoRa_Dongle_Hardware/blob/main/Documents/sch%20USB%20LoRa%20Dongle.pdf)
 * [USB LoRa Dongle User Manual](https://github.com/sbcshop/Usb_To_LoRa_Dongle_Hardware/tree/main/Documents)
 
+ ## Related Products
+
+* [LoRa HAT For Raspberry Pi](https://shop.sb-components.co.uk/products/lora-hat-433mhz-868mhz) 
+
+ ![LoRa HAT For Raspberry Pi](https://cdn.shopify.com/s/files/1/1217/2104/products/lora.jpg?v=1670911119&width=300)
  
+ * [RangePi](https://shop.sb-components.co.uk/products/range-pi)
+ 
+ ![RangePi](https://cdn.shopify.com/s/files/1/1217/2104/products/1_54b19023-5d19-4f55-acea-af894f2d00c6.png?v=1646815358&width=300)
+
+## Product License
+
+This is ***open source*** product. Kindly check LICENSE.md file for more information.
+
+Please contact support@sb-components.co.uk for technical support.
+<p align="center">
+  <img width="360" height="100" src="https://cdn.shopify.com/s/files/1/1217/2104/files/Logo_sb_component_3.png?v=1666086771&width=300">
+</p>
+
