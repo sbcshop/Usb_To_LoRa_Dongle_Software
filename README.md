@@ -16,7 +16,7 @@ For windows you can use XCTU or Tera Term and other related software. Among all,
 <img src = "https://github.com/sbcshop/Usb_To_LoRa_Dongle_Software/blob/main/Images/img10.png"/>
 <img src = "https://github.com/sbcshop/Usb_To_LoRa_Dongle_Software/blob/main/Images/img11.png"/>
 
-It receive data from other LoRa Dongle
+It receive data from other LoRa Dongle, as you see in below image
 
 <img src = "https://github.com/sbcshop/Usb_To_LoRa_Dongle_Software/blob/main/Images/img12.png"/>
 
