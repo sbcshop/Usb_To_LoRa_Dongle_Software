@@ -52,6 +52,7 @@ It receive data from other LoRa Dongle, as you see in below image
   <img src= "https://github.com/sbcshop/Lora-HAT-for-Raspberry-Pi/blob/main/images/img_14.png" />
   <img src= "https://github.com/sbcshop/Lora-HAT-for-Raspberry-Pi/blob/main/images/img_15.png" />
   
-  
-  https://github.com/sbcshop/Usb_To_LoRa_Dongle_Hardware
+## Documentation
+* [USB LoRa Dongle Hardware](  https://github.com/sbcshop/Usb_To_LoRa_Dongle_Hardware)
+
  
