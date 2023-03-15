@@ -9,6 +9,10 @@ To begin, you must configure the LoRa in transceiver mode by selecting the jumpe
 
 <img src = "https://github.com/sbcshop/Usb_To_LoRa_Dongle_Software/blob/main/Images/img.jpg"/>
 
+ You can download the XCTU from below :
+ 
+ * [Dodnload XCTU](https://hub.digi.com/support/products/xctu/)
+ 
 You can use XCTU or Tera Term for Windows to transmit and transfer data, as well as other related software. Among all, XCTU is effective and simple to use. follow the steps below
 
 <img src = "https://github.com/sbcshop/Usb_To_LoRa_Dongle_Software/blob/main/Images/img4.png"/>
