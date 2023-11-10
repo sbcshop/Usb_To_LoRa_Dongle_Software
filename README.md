@@ -2,7 +2,7 @@
 
 USB to LoRa is a robust and versatile USB to LoRa that allows you to connect without limits. Its excellent range and simple connection allow you to converse with devices up to 5 kilometres distant. LoRa Dongle is the appropriate answer for anybody wishing to develop long-range wireless communication in a number of applications.
 
-<img src = "https://github.com/sbcshop/Usb_To_LoRa_Dongle_Software/blob/main/Images/lora_usb.png"/>
+![image](https://cdn.shopify.com/s/files/1/1217/2104/files/USBtoloraDB.png?v=1678709954)
 
 ## How To use
 To begin, you must configure the LoRa in transceiver mode by selecting the jumpers shown in the image below:
@@ -38,7 +38,7 @@ There are four operating modes, which are set by M1 and M0, the details are as f
    <img src = "https://github.com/sbcshop/Usb_To_LoRa_Dongle_Software/blob/main/Images/img3.jpg"/>
    
 ### Use LoRa USB As Breakout
-You may use this device as a breakout, which means you can link it to any microcontroller or CPU by configuring the UART jumper wires as shown in the image below.
+This device can be used as a breakout, which means you can connect it to any microcontroller or MCU by configuring the UART jumper wires as described below.
 
 <img src = "https://github.com/sbcshop/Usb_To_LoRa_Dongle_Software/blob/main/Images/img14.jpg"/>
 
